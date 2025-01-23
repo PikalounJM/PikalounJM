@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! Welcome to my Github blog. 👋
+
+<img src="https://img.shields.io/badge/Data Scientis-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <!--
 **PikalounJM/PikalounJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
