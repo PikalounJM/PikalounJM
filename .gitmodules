@@ -1,5 +1,4 @@
 [submodule "themes/PaperMod"]
     path = themes/PaperMod
-    url = "https://github.com/PikalounJM/PikalounJM.git"
+    url = "https://github.com/PikalounJM/website.git"
 
-    
